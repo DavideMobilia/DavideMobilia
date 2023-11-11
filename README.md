@@ -1,6 +1,6 @@
 ![MasterHead](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)
-<h1 align="center">Hi 👋, I'm Davide Mobilia</h1>
-<h3 align="center">A passionate Data Scientist & Data Analyst</h3>
+<h1 align="center">Hi 👋, Welcome to my Github</h1>
+<h3 align="left">I'm Davide Mobilia, a Data Scientist & Data Analyst with a passion for ML and AI </h3>
 
 
 - 🌱 Currently learning **LLM Models**
