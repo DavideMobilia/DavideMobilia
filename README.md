@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, Welcome to my Github</h1>
 <h3 align="left">I'm Davide Mobilia, a Data Scientist & Data Analyst with a passion for ML and AI </h3>
 
-
 - 🌱 Currently learning **LLM Models**
 
 - 📫 How to reach me **davide.mob@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
