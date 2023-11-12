@@ -17,7 +17,5 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidemobilia&show_icons=true&locale=en&layout=compact" alt="davidemobilia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidemobilia&show_icons=true&locale=en" alt="davidemobilia" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidemobilia&" alt="davidemobilia" /></p>
 
